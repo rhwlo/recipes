@@ -1,0 +1,50 @@
+# Seitan sausage #
+
+This is based off of [a recipe for Italian sausage from the Post-Punk Kitchen][italian sausage].
+
+## ingredients
+
+- **wet ingredients**
+  - 1/2 cup chickpeas (or another type of bean; see notes below)
+  - 1 cup vegetable broth
+    - if you're using home-cooked beans, you can cut back on this and use some of the water the beans were cooked in
+    - if you're using veggie broth powder like I do, feel free to use water in place of veggie broth here and add the proportional amount of veggie broth powder with the spices.
+  - 2 Tbsp. soy sauce or Bragg’s liquid aminos
+  - 1 Tbsp. oil
+- **dry ingredients**
+  - 1 1/4 cup wheat gluten
+  - 1/4 cup nutritional yeast
+  - spices:
+    - 2 Tbsp. granulated garlic
+    - 1 tsp. dried oregano
+    - 1 tsp. dried savory
+    - 1 tsp. dried rosemary
+    - 1 tsp. dried sage
+
+## directions
+
+- In a large bowl, mash the beans until they're a bit mushy; add the other wet ingredients and stir to combine.
+- In a separate bowl, combine the dry ingredients and mix to combine.
+- Mix the dry ingredients into the wet, and stir with a spoon if you like. I usually get right in there kneading with my hands since that’s how it’s going to end up anyway.
+- Mix/knead the dough until everything is incorporated. The dough should hold together pretty well, with a sort of play-dough consistency.
+- Make a long, log-shaped loaf out of the dough and roll it up in some aluminum foil (or in a clean kitchen towel, secured with twine)
+- Steam the seitan sausage to set it:
+  - using a pot of water on a stovetop with a steamer basket in it, this takes about 40 minutes. I have a problem with it tending to boil dry during this relatively long cooking period, so I add more water as the boiling continues.
+  - using a (stovetop) pressure cooker:
+    - put the seitan in a steamer basket, with several cups of water (but not so much that it's going to get the seitan wet in the basket)
+    - seal the pressure cooker
+    - turn on the heat to medium-high or high (about 8 on my [electric] stove)
+    - once the pressure cooker pressurizes, turn the heat down to medium (about 5 on my stove)
+    - cook for 15 minutes at pressure
+    - remove from heat and let the pressure cooker depressurize on its own — no quick-release needed
+- Unwrap (but be careful, it’s hot!) and store in the fridge until you want to use it. My preferred method of cooking it is sautéeing with some onions and garlic to make a filling for tacos, but it could also work well in, e.g., a stir fry
+
+## notes
+- After cooking this recipe a few times and feeling wasteful with the amount of foil, I bought [a couple of plain flour sack dish towels from Amazon][dish-towels], as well as [some reusable silicone kitchen zip-ties][zip-ties]. These have worked really well for me!
+- I regularly substitute the beans and spices, so feel free to be creative! Combos that I’ve tried have included:
+  - soy beans + garlic powder and sesame seeds
+  - black beans + chipotles en adobo, cumin, and a little turmeric
+
+[italian sausage]: http://www.theppk.com/2012/01/vegan_sausage/
+[dish-towels]: http://smile.amazon.com/gp/product/B0018N46PI
+[zip-ties]: http://smile.amazon.com/gp/product/B00ITZYG2G
